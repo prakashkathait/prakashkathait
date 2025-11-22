@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there👋, I'm Prakash</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Senior Data Analyst</h3>
 
 
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m Skilled in **Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **prakash24kathait@gmail.com**
 
